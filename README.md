@@ -1,4 +1,4 @@
-# � About Me:
+#  About Me:
 I’m Anirudh Ramakrishnan, a first-year Computer Science student and tech enthusiast with a passion for building practical, innovative solutions that simplify everyday life. I love bridging the gap between technology and user experience, whether it’s developing AI-powered apps, creating finance management tools, or experimenting with IoT and smart home projects.
 
 
